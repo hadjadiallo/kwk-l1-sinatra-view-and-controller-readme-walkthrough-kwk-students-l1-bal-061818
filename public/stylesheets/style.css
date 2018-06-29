@@ -3,8 +3,6 @@ body {
   text-align: center;
   background-color: #D4F5F5;
   color: #554348
-  font-family: 'Indie Flower', cursive;
-  
 }
 
     h1 {
@@ -16,5 +14,11 @@ body {
     h2 { color: black;
     font-family: 'Indie Flower', cursive;
     font-size:180%;
-    
     }
+    
+    body {
+    color: Black;
+      font-family: 'Indie Flower', cursive;
+      font-size:300%;
+    }
+    
